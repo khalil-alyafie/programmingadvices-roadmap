@@ -24,7 +24,7 @@ Here’s the full roadmap that I followed:
 
 
 
-![Roadmap](road.png)
+![Roadmap](https://uploads.teachablecdn.com/attachments/jlJAuzdhQsaQppzKYUR9_1000116077.png)
 
 
 
@@ -131,6 +131,7 @@ By following this roadmap:
 &nbsp; - `README.md` explains the course and what I learned  
 
 &nbsp; - Code files contain my practice and mini projects  
+
 
 
 
