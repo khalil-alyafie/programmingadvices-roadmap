@@ -6,7 +6,7 @@ This repository contains my **learning journey** in programming, based on the ro
 
 
 
-The roadmap guides step by step from **foundations** all the way to advanced topics like **algorithms, C++, C#, databases, and Windows services**.  
+The roadmap guides step by step from **foundations** all the way to advanced topics like **algorithms, C++, C#, databases, and data structures**.  
 
 Along the way, I created folders with my **practice exercises and projects** to apply what I learned.
 
@@ -131,6 +131,7 @@ By following this roadmap:
 &nbsp; - `README.md` explains the course and what I learned  
 
 &nbsp; - Code files contain my practice and mini projects  
+
 
 
 
